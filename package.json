@@ -9,13 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "15.1.6",
+    "@clerk/nextjs": "^6.18.5",
+    "inngest": "^3.35.1",
+    "lucide-react": "^0.507.0",
+    "mongoose": "^8.14.1",
+    "next": "^15.3.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-hot-toast": "^2.5.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@types/react": "19.1.2",
     "eslint": "^9",
     "eslint-config-next": "15.1.6",
     "postcss": "^8",
